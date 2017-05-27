@@ -7,4 +7,5 @@ Gem::Specification.new do |s|
   s.email    = "hanachin@gmail.com"
   s.homepage = "https://github.com/hanachin/string_literal_extractor"
   s.require_paths = ['.']
+  s.files = ["string_literal_extractor.rb"]
 end
